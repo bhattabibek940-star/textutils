@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+tests/test_textutils.py
+textutils_bibekbhatta/__init__.py
+textutils_bibekbhatta.egg-info/PKG-INFO
+textutils_bibekbhatta.egg-info/SOURCES.txt
+textutils_bibekbhatta.egg-info/dependency_links.txt
+textutils_bibekbhatta.egg-info/top_level.txt

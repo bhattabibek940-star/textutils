@@ -1,0 +1,30 @@
+Metadata-Version: 2.4
+Name: textutils-bibekbhatta
+Version: 0.1.0
+Summary: Simple text utilities: reverse, palindrome, vowels, capitalize
+Home-page: https://github.com/bibekbhatta/textutils-bibekbhatta
+Author: Bibek Bhatta
+Author-email: bibek@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-python
+Dynamic: summary
+
+# textutils_bibekbhatta
+
+A small Python library with handy text functions, made by Bibek Bhatta for a class assignment.
+
+## Installation
+
+```bash
+pip install textutils-bibekbhatta
